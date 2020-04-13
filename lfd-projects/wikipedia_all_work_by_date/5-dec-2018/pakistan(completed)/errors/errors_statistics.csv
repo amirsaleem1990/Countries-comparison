@@ -1,0 +1,10 @@
+not_same_name,874
+no infobox,20
+wikipedia.exceptions.PageError,734
+UnboundLocalError,20
+wikipedia.exceptions.DisambiguationError,37
+IndexError,29
+ValueError,12
+json.decoder.JSONDecodeError,1
+ok,559
+,2286

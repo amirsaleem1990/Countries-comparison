@@ -1,0 +1,1 @@
+["{name=WhatsApp, type=com.whatsapp}","{name=kashdigital2019@gmail.com, type=com.google}"]

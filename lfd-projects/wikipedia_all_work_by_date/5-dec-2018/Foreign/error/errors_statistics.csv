@@ -1,0 +1,7 @@
+not_same_name,341
+no infobox,66
+wikipedia.exceptions.PageError,280
+IndexError,88
+UnboundLocalError,66
+wikipedia.exceptions.DisambiguationError,28
+ValueError,20

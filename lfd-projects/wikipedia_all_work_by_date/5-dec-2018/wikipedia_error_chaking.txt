@@ -1,0 +1,20 @@
+file_name = 'IndexError.txt'
+with open(file_name, 'r') as file:
+	a = file.read()
+na = a.splitlines()
+print(len(na))
+ok_names = []
+
+for i in na:
+     try:
+         wikipedia.page(i)
+         ok_names.append(i)
+     except:
+         pass
+     
+
+len(ok_names)
+
+
+
+

@@ -1,0 +1,13 @@
+Marketing Channel,Channel,Multi Factor
+Advertisement,General Trade,1.2
+Advertisement,Modern Trade,1.2
+Advertisement,Wholesale,1.1
+Advertisement,Perfumery,1.1
+Promotions,General Trade,1.2
+Promotions,Modern Trade,1.4
+Promotions,Wholesale,1.6
+Promotions,Perfumery,1.1
+Combo (Ad & Promo),General Trade,1.6
+Combo (Ad & Promo),Modern Trade,1.4
+Combo (Ad & Promo),Wholesale,1.6
+Combo (Ad & Promo),Perfumery,1.2

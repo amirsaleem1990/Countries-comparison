@@ -1,0 +1,1057 @@
+,Index,column,Query
+0,2181,Remarks,"{'drug trafficking', 'drug'}"
+1,2182,Remarks,"{'drug trafficking', 'drug'}"
+2,2302,Address,kat
+3,2510,Remarks,"{'drug trafficking', 'drug'}"
+4,2543,Remarks,"{'drug trafficking', 'drug'}"
+5,2952,Remarks,"{'drug trafficking', 'drug'}"
+6,2960,Remarks,"{'drug trafficking', 'drug'}"
+7,3470,Remarks,"{'drug trafficking', 'drug'}"
+8,3512,Remarks,"{'drug trafficking', 'drug'}"
+9,3513,Remarks,"{'drug trafficking', 'drug'}"
+10,3514,Remarks,"{'drug trafficking', 'drug'}"
+11,3515,Remarks,"{'drug trafficking', 'drug'}"
+12,3640,Remarks,"{'drug trafficking', 'drug'}"
+13,3873,Remarks,"{'drug trafficking', 'drug'}"
+14,3901,Remarks,drug
+15,4023,Remarks,drug
+16,4067,Remarks,drug
+17,4078,Remarks,drug
+18,4089,Remarks,"{'drug trafficking', 'drug'}"
+19,4157,Remarks,drug
+20,4168,Remarks,drug
+21,4196,Remarks,drug
+22,4255,Remarks,"{'drug trafficking', 'drug'}"
+23,4621,Remarks,"{'drug trafficking', 'drug'}"
+24,4624,Remarks,heroin
+25,4681,Remarks,"{'drug trafficking', 'drug'}"
+26,4835,Remarks,"{'drug trafficking', 'heroin', 'drug'}"
+27,4998,Aliases,pcp
+28,5210,Remarks,"{'drug trafficking', 'drug'}"
+29,5444,Remarks,"{'drug trafficking', 'drug'}"
+30,5496,Remarks,"{'drug trafficking', 'drug'}"
+31,5497,Remarks,"{'drug trafficking', 'drug'}"
+32,5499,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+33,5500,Remarks,"{'drug trafficking', 'drug'}"
+34,5501,Remarks,"{'drug trafficking', 'drug'}"
+35,5503,Remarks,"{'drug trafficking', 'drug'}"
+36,5507,Remarks,"{'drug trafficking', 'drug'}"
+37,5911,"{'Name', 'OrigName', 'Aliases'}","{'drug trafficking', 'drug'}"
+38,5930,Remarks,"{'drug trafficking', 'drug'}"
+39,6191,Designation,drug
+40,6212,Designation,drug
+41,6494,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+42,7660,Title,drug
+43,8009,Remarks,"{'drug trafficking', 'drug'}"
+44,8141,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+45,9733,Remarks,"{'drug trafficking', 'drug'}"
+46,9735,Remarks,"{'drug trafficking', 'drug'}"
+47,9737,Remarks,"{'drug trafficking', 'drug'}"
+48,9739,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+49,9741,Remarks,"{'drug trafficking', 'drug'}"
+50,10098,Aliases,"{'drug trafficking', 'drug'}"
+51,10107,"{'Name', 'OrigName', 'Aliases'}","{'drug trafficking', 'drug'}"
+52,10162,Remarks,"{'drug trafficking', 'drug'}"
+53,10505,"{'Name', 'OrigName'}",tobacco
+54,10506,Remarks,drug
+55,10663,Remarks,"{'drug trafficking', 'drug'}"
+56,10717,Remarks,"{'drug trafficking', 'drug'}"
+57,10943,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+58,11165,Remarks,"{'drug trafficking', 'drug'}"
+59,11696,Address,kat
+60,13228,Remarks,"{'drug trafficking', 'drug'}"
+61,13272,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+62,13290,Remarks,"{'drug trafficking', 'drug'}"
+63,13295,Remarks,"{'drug trafficking', 'drug'}"
+64,13296,Remarks,"{'drug trafficking', 'drug'}"
+65,13404,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+66,13411,Remarks,"{'drug trafficking', 'drug'}"
+67,13412,Remarks,"{'drug trafficking', 'drug'}"
+68,13413,Remarks,"{'drug trafficking', 'drug'}"
+69,13414,Remarks,"{'drug trafficking', 'drug'}"
+70,13415,Remarks,"{'drug trafficking', 'drug'}"
+71,13416,Remarks,"{'drug trafficking', 'drug'}"
+72,13417,Remarks,"{'drug trafficking', 'drug'}"
+73,13418,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+74,13420,Remarks,"{'drug trafficking', 'drug'}"
+75,13421,Remarks,"{'drug trafficking', 'drug'}"
+76,13477,Address,kat
+77,13732,Remarks,"{'drug trafficking', 'drug'}"
+78,13733,Remarks,"{'drug trafficking', 'drug'}"
+79,14525,Remarks,narcotics
+80,14529,Remarks,narcotics
+81,14614,Remarks,drug
+82,14628,Remarks,drug
+83,14634,Remarks,"{'drug trafficking', 'drug'}"
+84,14654,Remarks,drug
+85,14675,Remarks,drug
+86,14760,Remarks,drug
+87,14794,Remarks,drug
+88,14882,Remarks,drug
+89,14892,Remarks,drug
+90,14927,Remarks,drug
+91,14990,Remarks,drug
+92,15178,Remarks,drug
+93,15251,Remarks,drug
+94,15303,Remarks,drug
+95,15304,Remarks,"{'drug trafficking', 'drug'}"
+96,15366,Remarks,drug
+97,15415,Remarks,drug
+98,15772,Remarks,"{'drug trafficking', 'drug'}"
+99,15776,Remarks,heroin
+100,15865,Remarks,"{'drug trafficking', 'drug'}"
+101,15876,"{'Name', 'OrigName', 'Aliases'}",drugs
+102,16060,Remarks,"{'drug trafficking', 'heroin', 'drug'}"
+103,16232,Remarks,alcohol
+104,16651,Remarks,"{'drug trafficking', 'drug'}"
+105,16652,Remarks,heroin
+106,16767,Remarks,"{'drug trafficking', 'drug'}"
+107,16826,Remarks,narcotics
+108,16855,Aliases,narcotics
+109,16860,Remarks,narcotics
+110,17083,Remarks,"{'drug trafficking', 'heroin', 'drug'}"
+111,17573,Remarks,drug
+112,18631,Remarks,drug
+113,18656,Remarks,drug
+114,18672,Remarks,heroin
+115,18675,Remarks,"{'drug trafficking', 'drug'}"
+116,18954,Remarks,"{'drug trafficking', 'drug'}"
+117,19315,Remarks,drug
+118,19328,Remarks,drug
+119,19381,Remarks,drug
+120,19517,Remarks,drug
+121,19556,Remarks,"{'drug trafficking', 'drug'}"
+122,19557,Remarks,"{'drug trafficking', 'heroin', 'drug'}"
+123,20052,Remarks,narcotics
+124,20058,Remarks,narcotics
+125,20252,Remarks,drugs
+126,22090,Remarks,drug
+127,24204,Designation,drug
+128,26055,Address,kat
+129,26079,Address,kat
+130,26129,Designation,narcotics
+131,29529,Remarks,drugs
+132,30192,Remarks,drug
+133,30277,Remarks,drugs
+134,30354,Remarks,drugs
+135,30369,Remarks,drug
+136,30396,Remarks,drug
+137,30471,Remarks,drug
+138,30545,Remarks,"{'drug trafficking', 'drug'}"
+139,30714,Remarks,drugs
+140,30715,Remarks,drugs
+141,30754,Remarks,drugs
+142,30824,Remarks,drug
+143,31173,Remarks,drugs
+144,32802,Remarks,drug
+145,32804,Remarks,"{'drug trafficking', 'drug'}"
+146,32810,Remarks,drogas
+147,32811,Remarks,drogas
+148,32896,Remarks,drogas
+149,32922,Remarks,drug
+150,32997,Remarks,drug
+151,33140,Remarks,"{'drug trafficking', 'drug'}"
+152,33911,Remarks,drug
+153,34828,Remarks,drugs
+154,35136,Remarks,"{'drug trafficking', 'drug'}"
+155,35142,Remarks,drugs
+156,35143,Remarks,drugs
+157,35151,Remarks,drugs
+158,35180,Remarks,drugs
+159,35231,Remarks,drugs
+160,35803,Remarks,drugs
+161,35881,Remarks,drug
+162,36073,Remarks,drug
+163,36603,Remarks,drug
+164,36631,Remarks,drug
+165,36664,Remarks,drug
+166,36687,Remarks,drug
+167,38847,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+168,39077,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+169,39380,"{'Name', 'OrigName', 'Aliases'}","{'drug trafficking', 'drug'}"
+170,39641,Aliases,"{'drug trafficking', 'drug'}"
+171,39828,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+172,39829,Remarks,"{'drug trafficking', 'drug'}"
+173,39831,Remarks,"{'drug trafficking', 'drug'}"
+174,39833,Remarks,"{'drug trafficking', 'drug'}"
+175,39835,Remarks,"{'drug trafficking', 'drug'}"
+176,39838,Remarks,"{'drug trafficking', 'drug'}"
+177,39839,Remarks,"{'drug trafficking', 'drug'}"
+178,39841,Remarks,"{'drug trafficking', 'drug'}"
+179,39888,Remarks,"{'drug trafficking', 'drug'}"
+180,39890,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+181,39891,Remarks,"{'drug trafficking', 'drug'}"
+182,39892,Remarks,"{'drug trafficking', 'drug'}"
+183,39894,Remarks,"{'drug trafficking', 'drug'}"
+184,39895,Remarks,"{'drug trafficking', 'drug'}"
+185,39898,Remarks,"{'drug trafficking', 'drug'}"
+186,39899,Remarks,"{'drug trafficking', 'drug'}"
+187,39901,Remarks,"{'drug trafficking', 'drug'}"
+188,40030,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+189,40035,Remarks,"{'drug trafficking', 'drug'}"
+190,40037,Remarks,"{'drug trafficking', 'drug'}"
+191,40180,Remarks,"{'drug trafficking', 'drug'}"
+192,40182,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+193,40185,Remarks,"{'drug trafficking', 'drug'}"
+194,40188,Remarks,"{'drug trafficking', 'drug'}"
+195,40191,Remarks,"{'drug trafficking', 'drug'}"
+196,40194,Remarks,"{'drug trafficking', 'drug'}"
+197,40196,Remarks,"{'drug trafficking', 'drug'}"
+198,40198,Remarks,"{'drug trafficking', 'drug'}"
+199,40202,Remarks,"{'drug trafficking', 'drug'}"
+200,40205,Remarks,"{'drug trafficking', 'drug'}"
+201,40209,Remarks,"{'drug trafficking', 'drug'}"
+202,40212,Remarks,"{'drug trafficking', 'drug'}"
+203,40218,Remarks,"{'drug trafficking', 'drug'}"
+204,40222,Remarks,"{'drug trafficking', 'drug'}"
+205,40226,Remarks,"{'drug trafficking', 'drug'}"
+206,40235,Remarks,"{'drug trafficking', 'drug'}"
+207,40241,Remarks,"{'drug trafficking', 'drug'}"
+208,40245,Remarks,"{'drug trafficking', 'drug'}"
+209,40252,Remarks,"{'drug trafficking', 'drug'}"
+210,40254,Remarks,"{'drug trafficking', 'drug'}"
+211,40380,Remarks,"{'drug trafficking', 'drug'}"
+212,40414,Remarks,"{'drug trafficking', 'drug'}"
+213,40416,Remarks,"{'drug trafficking', 'drug'}"
+214,40420,Remarks,"{'drug trafficking', 'drug'}"
+215,40423,Remarks,"{'drug trafficking', 'drug'}"
+216,40426,Remarks,"{'drug trafficking', 'drug'}"
+217,40428,Remarks,"{'drug trafficking', 'drug'}"
+218,40433,Remarks,"{'drug trafficking', 'drug'}"
+219,40497,Remarks,"{'drug trafficking', 'drug'}"
+220,40508,Remarks,"{'drug trafficking', 'drug'}"
+221,40519,Remarks,"{'drug trafficking', 'drug'}"
+222,40530,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+223,40556,Aliases,narcotics
+224,40582,"{'Name', 'OrigName'}","{'drug trafficking', 'drug'}"
+225,40658,"{'Name', 'OrigName'}",tobacco
+226,40669,"{'Name', 'OrigName', 'Aliases'}","{'drug trafficking', 'drug'}"
+227,41251,Remarks,drogas
+228,41276,Remarks,drogas
+229,41325,Remarks,drug
+230,41354,Remarks,"{'drug trafficking', 'drug'}"
+231,41355,Remarks,"{'drug trafficking', 'drug'}"
+232,41356,Remarks,"{'drug trafficking', 'drug'}"
+233,41359,Remarks,drugs
+234,41373,Remarks,drug
+235,41388,Remarks,drug
+236,41423,Remarks,drug
+237,41425,Remarks,drugs
+238,41440,Remarks,drugs
+239,41588,Remarks,"{'drug', 'drugs'}"
+240,41685,Remarks,"{'drug trafficking', 'drug'}"
+241,41729,Remarks,drogas
+242,41852,Remarks,drugs
+243,41853,Remarks,drug
+244,41877,Remarks,drugs
+245,41906,Remarks,"{'cannabis', 'drug'}"
+246,41939,Remarks,drugs
+247,41942,Remarks,drug
+248,41944,Remarks,drugs
+249,41981,Remarks,drugs
+250,42114,Remarks,drugs
+251,42125,Remarks,drugs
+252,42170,Remarks,"{'drug trafficking', 'drug'}"
+253,42210,Remarks,drugs
+254,42280,Remarks,narcotics
+255,42299,Remarks,drug
+256,42308,Remarks,drug
+257,42310,Remarks,drug
+258,42311,Remarks,drug
+259,42383,Remarks,drugs
+260,42402,Remarks,drugs
+261,42404,Remarks,drugs
+262,42454,Remarks,drugs
+263,42455,Remarks,drugs
+264,42508,Remarks,drugs
+265,42521,Remarks,drug
+266,42541,Remarks,drugs
+267,42542,Remarks,drug
+268,42543,Remarks,drugs
+269,42554,Remarks,drug
+270,42588,Remarks,drug
+271,42643,Remarks,drug
+272,42647,Remarks,drug
+273,42651,Remarks,cocaine
+274,42654,Remarks,drugs
+275,42670,Remarks,narcotics
+276,42681,Remarks,drug
+277,42695,Remarks,drug
+278,42696,Remarks,drug
+279,42701,Remarks,drug
+280,42702,Remarks,drug
+281,42723,Remarks,narcotics
+282,42726,Remarks,drug
+283,42744,Remarks,narcotics
+284,42752,Remarks,drugs
+285,42764,Remarks,drug
+286,42798,Remarks,drugs
+287,42825,Remarks,drug
+288,42826,Remarks,drugs
+289,42833,Remarks,drugs
+290,42837,Remarks,drugs
+291,42861,Remarks,drug
+292,42868,Remarks,narcotics
+293,42882,Remarks,drugs
+294,42932,Remarks,drugs
+295,42994,Remarks,drugs
+296,43013,Remarks,drug
+297,43025,Remarks,drugs
+298,43026,Remarks,drug
+299,43027,Remarks,drugs
+300,43038,Remarks,drugs
+301,43054,Remarks,drug
+302,43070,Remarks,drug
+303,43097,Remarks,"{'narcotics', 'drugs'}"
+304,43107,Remarks,"{'drug trafficking', 'drug'}"
+305,43108,Remarks,drogas
+306,43116,Remarks,drogas
+307,43152,Remarks,narcotics
+308,43160,Remarks,drug
+309,43175,Remarks,drugs
+310,43219,Remarks,drug
+311,43233,Remarks,drogas
+312,43235,Remarks,drug
+313,43280,Remarks,drugs
+314,43290,Remarks,drug
+315,43306,Remarks,drugs
+316,43322,Remarks,drugs
+317,43336,Remarks,"{'drug trafficking', 'drug'}"
+318,43344,Remarks,cocaine
+319,43350,Remarks,drug
+320,43359,Remarks,"{'drug', 'drugs'}"
+321,43376,Remarks,drugs
+322,43409,Remarks,cocaine
+323,43415,Remarks,"{'cocaine', 'oxycodone', 'drug', 'intoxicated', 'morphine'}"
+324,43495,Remarks,cocaine
+325,43501,Remarks,drug
+326,43502,Remarks,drug
+327,43503,Remarks,drug
+328,43532,Remarks,drug
+329,43581,Remarks,narcotics
+330,43586,Remarks,narcotics
+331,43588,Remarks,cocaine
+332,43686,Remarks,drug
+333,43704,Remarks,drug
+334,43712,Remarks,narcotics
+335,43721,Remarks,drug
+336,43729,Remarks,drugs
+337,43736,Remarks,drugs
+338,43740,Remarks,drugs
+339,43777,Remarks,drugs
+340,43810,Remarks,drugs
+341,43828,Remarks,drug
+342,43868,Remarks,drug
+343,43875,Remarks,drug
+344,44000,Remarks,drugs
+345,44007,Remarks,cocaine
+346,44023,Remarks,cocaine
+347,44026,Remarks,drug
+348,44085,Remarks,drug
+349,44086,Remarks,drug
+350,44088,Remarks,"{'drug trafficking', 'cocaine', 'drug'}"
+351,44107,Remarks,drugs
+352,44186,Remarks,drug
+353,44187,Remarks,drug
+354,44250,Remarks,cannabis
+355,44289,Remarks,cocaine
+356,44309,Remarks,drugs
+357,44329,Remarks,heroin
+358,44384,Remarks,drug
+359,44387,Remarks,drug
+360,44526,Remarks,"{'drug trafficking', 'drug'}"
+361,44535,Remarks,cocaine
+362,44592,Title,drug
+363,46965,Name,tobacco
+364,51949,Remarks,drugs
+365,52276,Remarks,drugs
+366,52773,Remarks,drugs
+367,53320,Remarks,drugs
+368,53491,Remarks,drugs
+369,53894,Remarks,drugs
+370,54187,Remarks,drugs
+371,54331,Remarks,drugs
+372,54489,Remarks,drugs
+373,66648,Remarks,drug
+374,71229,"{'Name', 'OrigName'}",drug
+375,72019,"{'Name', 'OrigName'}",drugs
+376,72407,"{'Name', 'OrigName'}",drug
+377,72667,"{'Name', 'OrigName'}",drug
+378,73215,"{'Name', 'OrigName'}",drug
+379,73217,"{'Name', 'OrigName'}",drug
+380,73495,"{'Name', 'OrigName'}",drug
+381,73564,"{'Name', 'OrigName'}",drugs
+382,73842,"{'Name', 'OrigName'}",drug
+383,73976,"{'Name', 'OrigName'}",drug
+384,73977,"{'Name', 'OrigName'}",drug
+385,73978,"{'Name', 'OrigName'}",drug
+386,74027,"{'Name', 'OrigName'}",drug
+387,74168,"{'Name', 'OrigName'}",drug
+388,74360,"{'Name', 'OrigName'}",drug
+389,75272,"{'Name', 'OrigName'}",drug
+390,76051,"{'Name', 'OrigName'}",drug
+391,76052,"{'Name', 'OrigName'}",drug
+392,76053,"{'Name', 'OrigName'}",drug
+393,76054,"{'Name', 'OrigName'}",drug
+394,76055,"{'Name', 'OrigName'}",drug
+395,76056,"{'Name', 'OrigName'}",drug
+396,76057,"{'Name', 'OrigName'}",drug
+397,76058,"{'Name', 'OrigName'}",drug
+398,76059,"{'Name', 'OrigName'}",drug
+399,76220,"{'Name', 'OrigName'}",drug
+400,78166,Remarks,drug
+401,80293,"{'Name', 'OrigName'}",drugs
+402,80298,"{'Name', 'OrigName'}",drugs
+403,80303,"{'Name', 'OrigName'}",drugs
+404,80813,"{'Name', 'OrigName'}",drugs
+405,81155,"{'Name', 'OrigName'}",drugs
+406,81158,"{'Name', 'OrigName'}",drugs
+407,82378,Remarks,"{'drug trafficking', 'drug'}"
+408,82379,Remarks,"{'drug trafficking', 'drug'}"
+409,82380,Remarks,"{'drug trafficking', 'drug'}"
+410,82381,Remarks,"{'drug trafficking', 'drug'}"
+411,82421,Remarks,narcotics
+412,82422,Remarks,narcotics
+413,82423,Remarks,narcotics
+414,82424,Remarks,narcotics
+415,82425,Remarks,narcotics
+416,82426,Remarks,narcotics
+417,82427,Remarks,narcotics
+418,82428,Remarks,narcotics
+419,82429,Remarks,narcotics
+420,82430,Remarks,narcotics
+421,82431,Remarks,narcotics
+422,82432,Remarks,narcotics
+423,82433,Remarks,narcotics
+424,82434,Remarks,narcotics
+425,82435,Remarks,narcotics
+426,82436,Remarks,narcotics
+427,82437,Remarks,narcotics
+428,82438,Remarks,narcotics
+429,82439,Remarks,narcotics
+430,82440,Remarks,narcotics
+431,82612,Remarks,drug
+432,82629,Remarks,heroin
+433,82631,Remarks,heroin
+434,84337,Remarks,"{'drug trafficking', 'drug'}"
+435,84339,Remarks,"{'drug trafficking', 'drug'}"
+436,84341,Remarks,"{'drug trafficking', 'drug'}"
+437,84343,Remarks,"{'drug trafficking', 'drug'}"
+438,84407,"{'Name', 'OrigName'}",tobacco
+439,85562,Remarks,"{'drug trafficking', 'drug'}"
+440,85565,Remarks,"{'drug trafficking', 'drug'}"
+441,85568,Remarks,"{'drug trafficking', 'drug'}"
+442,85570,Remarks,"{'drug trafficking', 'drug'}"
+443,85573,Remarks,"{'drug trafficking', 'drug'}"
+444,85576,Remarks,"{'drug trafficking', 'drug'}"
+445,85579,Remarks,"{'drug trafficking', 'drug'}"
+446,85581,Remarks,"{'drug trafficking', 'drug'}"
+447,85582,Remarks,"{'drug trafficking', 'drug'}"
+448,85586,Remarks,"{'drug trafficking', 'drug'}"
+449,85589,Remarks,"{'drug trafficking', 'drug'}"
+450,85592,Remarks,"{'drug trafficking', 'drug'}"
+451,87057,"{'Name', 'OrigName'}",solvents
+452,88072,"{'Name', 'OrigName'}",solvents
+453,89339,"{'Name', 'OrigName'}",drugs
+454,89677,"{'Name', 'OrigName'}",drugs
+455,89974,"{'Name', 'OrigName'}",drugs
+456,92578,Remarks,"{'drug trafficking', 'drug'}"
+457,92580,Remarks,"{'drug trafficking', 'drug'}"
+458,92583,Remarks,"{'drug trafficking', 'drug'}"
+459,92586,Remarks,"{'drug trafficking', 'drug'}"
+460,92640,Remarks,narcotics
+461,92643,Remarks,narcotics
+462,92645,Remarks,narcotics
+463,92649,Remarks,narcotics
+464,92653,Remarks,narcotics
+465,92656,Remarks,narcotics
+466,92659,Remarks,narcotics
+467,92663,Remarks,narcotics
+468,92667,Remarks,narcotics
+469,92671,Remarks,narcotics
+470,92675,Remarks,narcotics
+471,92678,Remarks,narcotics
+472,92682,Remarks,narcotics
+473,92688,Remarks,narcotics
+474,92693,Remarks,narcotics
+475,92696,Remarks,narcotics
+476,92699,Remarks,narcotics
+477,92703,Remarks,narcotics
+478,92706,Remarks,narcotics
+479,92710,Remarks,narcotics
+480,93299,Remarks,narcotics
+481,93301,Remarks,narcotics
+482,93304,Remarks,narcotics
+483,93306,Remarks,narcotics
+484,93307,Remarks,narcotics
+485,93309,Remarks,narcotics
+486,93310,Remarks,narcotics
+487,93313,Remarks,narcotics
+488,93315,Remarks,narcotics
+489,93317,Remarks,narcotics
+490,93319,Remarks,narcotics
+491,93322,Remarks,narcotics
+492,95139,Remarks,"{'drug trafficking', 'drug'}"
+493,95142,Remarks,"{'drug trafficking', 'drug'}"
+494,95144,Remarks,"{'drug trafficking', 'drug'}"
+495,95146,Remarks,"{'drug trafficking', 'drug'}"
+496,95544,Remarks,drug
+497,95578,Remarks,drugs
+498,96738,"{'Name', 'OrigName'}",drug
+499,96740,"{'Name', 'OrigName'}",drug
+500,97859,"{'Name', 'OrigName'}",drugs
+501,98405,"{'Name', 'OrigName'}",tobacco
+502,98416,"{'Name', 'OrigName'}",tobacco
+503,98433,Remarks,"{'drug trafficking', 'drug'}"
+504,98436,Remarks,"{'drug trafficking', 'drug'}"
+505,98439,Remarks,"{'drug trafficking', 'drug'}"
+506,98442,Remarks,"{'drug trafficking', 'drug'}"
+507,99162,"{'Name', 'OrigName'}",drugs
+508,99336,Remarks,drug
+509,99341,Remarks,drug
+510,99344,Remarks,drug
+511,99349,Remarks,drug
+512,99693,Remarks,tobacco
+513,99758,"{'Name', 'OrigName'}",tobacco
+514,99934,"{'Name', 'OrigName'}",drugs
+515,100051,Remarks,narcotics
+516,100056,Remarks,narcotics
+517,100061,Remarks,narcotics
+518,100066,Remarks,narcotics
+519,100071,Remarks,narcotics
+520,100075,Remarks,narcotics
+521,100081,Remarks,narcotics
+522,100089,Remarks,narcotics
+523,100093,Remarks,narcotics
+524,100099,Remarks,narcotics
+525,100105,Remarks,narcotics
+526,100108,Remarks,narcotics
+527,100113,Remarks,narcotics
+528,100119,Remarks,narcotics
+529,100123,Remarks,narcotics
+530,100129,Remarks,narcotics
+531,100134,Remarks,narcotics
+532,100139,Remarks,narcotics
+533,100144,Remarks,narcotics
+534,100149,Remarks,narcotics
+535,100695,Remarks,heroin
+536,100697,Remarks,heroin
+537,100709,Remarks,drug
+538,101254,Remarks,narcotics
+539,101258,Remarks,narcotics
+540,101261,Remarks,narcotics
+541,101264,Remarks,narcotics
+542,101266,Remarks,narcotics
+543,101268,Remarks,narcotics
+544,101271,Remarks,narcotics
+545,101273,Remarks,narcotics
+546,101275,Remarks,narcotics
+547,101278,Remarks,narcotics
+548,101280,Remarks,narcotics
+549,101283,Remarks,narcotics
+550,101286,Remarks,narcotics
+551,101289,Remarks,narcotics
+552,101292,Remarks,narcotics
+553,101296,Remarks,narcotics
+554,101299,Remarks,narcotics
+555,101302,Remarks,narcotics
+556,101305,Remarks,narcotics
+557,101308,Remarks,narcotics
+558,101403,Remarks,narcotics
+559,101405,Remarks,narcotics
+560,101408,Remarks,narcotics
+561,101411,Remarks,narcotics
+562,101414,Remarks,narcotics
+563,101416,Remarks,narcotics
+564,101418,Remarks,narcotics
+565,101422,Remarks,narcotics
+566,101426,Remarks,narcotics
+567,101428,Remarks,narcotics
+568,101429,Remarks,narcotics
+569,101431,Remarks,narcotics
+570,101917,Remarks,narcotics
+571,101921,Remarks,narcotics
+572,101923,Remarks,narcotics
+573,101926,Remarks,narcotics
+574,101929,Remarks,narcotics
+575,101933,Remarks,narcotics
+576,101936,Remarks,narcotics
+577,101939,Remarks,narcotics
+578,101941,Remarks,narcotics
+579,101944,Remarks,narcotics
+580,101946,Remarks,narcotics
+581,101949,Remarks,narcotics
+582,102536,"{'Name', 'OrigName'}",tobacco
+583,102735,"{'Name', 'OrigName'}",drugs
+584,102737,"{'Name', 'OrigName'}",drugs
+585,103102,"{'Name', 'OrigName'}",drugs
+586,103134,"{'Name', 'OrigName'}",drugs
+587,103270,"{'Name', 'OrigName'}",tobacco
+588,103643,"{'Name', 'OrigName'}",tobacco
+589,104340,Remarks,narcotics
+590,104347,Remarks,narcotics
+591,104354,Remarks,narcotics
+592,104363,Remarks,narcotics
+593,104368,Remarks,narcotics
+594,104373,Remarks,narcotics
+595,104379,Remarks,narcotics
+596,104386,Remarks,narcotics
+597,104392,Remarks,narcotics
+598,104400,Remarks,narcotics
+599,104406,Remarks,narcotics
+600,104410,Remarks,narcotics
+601,104418,Remarks,narcotics
+602,104425,Remarks,narcotics
+603,104431,Remarks,narcotics
+604,104438,Remarks,narcotics
+605,104444,Remarks,narcotics
+606,104450,Remarks,narcotics
+607,104457,Remarks,narcotics
+608,104464,Remarks,narcotics
+609,104468,Remarks,narcotics
+610,104473,Remarks,narcotics
+611,104480,Remarks,narcotics
+612,104486,Remarks,narcotics
+613,104883,Remarks,tobacco
+614,105454,Remarks,narcotics
+615,105460,Remarks,narcotics
+616,105468,Remarks,narcotics
+617,105475,Remarks,narcotics
+618,105481,Remarks,narcotics
+619,105488,Remarks,narcotics
+620,105494,Remarks,narcotics
+621,105499,Remarks,narcotics
+622,105505,Remarks,narcotics
+623,105511,Remarks,narcotics
+624,105519,Remarks,narcotics
+625,105525,Remarks,narcotics
+626,105530,Remarks,narcotics
+627,105536,Remarks,narcotics
+628,105541,Remarks,narcotics
+629,105546,Remarks,narcotics
+630,105551,Remarks,narcotics
+631,105559,Remarks,narcotics
+632,105562,Remarks,narcotics
+633,105570,Remarks,narcotics
+634,105574,Remarks,narcotics
+635,105581,Remarks,narcotics
+636,105586,Remarks,narcotics
+637,105590,Remarks,narcotics
+638,105596,Remarks,narcotics
+639,105602,Remarks,narcotics
+640,105608,Remarks,narcotics
+641,105612,Remarks,narcotics
+642,105616,Remarks,narcotics
+643,105623,Remarks,narcotics
+644,105627,Remarks,narcotics
+645,105634,Remarks,narcotics
+646,105640,Remarks,narcotics
+647,105647,Remarks,narcotics
+648,105652,Remarks,narcotics
+649,105660,Remarks,narcotics
+650,105667,Remarks,narcotics
+651,105672,Remarks,narcotics
+652,105676,Remarks,narcotics
+653,105680,Remarks,narcotics
+654,105686,Remarks,narcotics
+655,105690,Remarks,narcotics
+656,105696,Remarks,narcotics
+657,105700,Remarks,narcotics
+658,105707,Remarks,narcotics
+659,105711,Remarks,narcotics
+660,105719,Remarks,narcotics
+661,105727,Remarks,narcotics
+662,105733,Remarks,narcotics
+663,105739,Remarks,narcotics
+664,105746,Remarks,narcotics
+665,105750,Remarks,narcotics
+666,105756,Remarks,narcotics
+667,105763,Remarks,narcotics
+668,105771,Remarks,narcotics
+669,105775,Remarks,narcotics
+670,105780,Remarks,narcotics
+671,105785,Remarks,narcotics
+672,105791,Remarks,narcotics
+673,105796,Remarks,narcotics
+674,105801,Remarks,narcotics
+675,105808,Remarks,narcotics
+676,105815,Remarks,narcotics
+677,105821,Remarks,narcotics
+678,105825,Remarks,narcotics
+679,105831,Remarks,narcotics
+680,105842,Remarks,narcotics
+681,105848,Remarks,narcotics
+682,105852,Remarks,narcotics
+683,105855,Remarks,narcotics
+684,105861,Remarks,narcotics
+685,105866,Remarks,narcotics
+686,105872,Remarks,narcotics
+687,105877,Remarks,narcotics
+688,105883,Remarks,narcotics
+689,105888,Remarks,narcotics
+690,105894,Remarks,narcotics
+691,105898,Remarks,narcotics
+692,105903,Remarks,narcotics
+693,105910,Remarks,narcotics
+694,106021,Remarks,narcotics
+695,106027,Remarks,narcotics
+696,106033,Remarks,narcotics
+697,106040,Remarks,narcotics
+698,106043,Remarks,narcotics
+699,106047,Remarks,narcotics
+700,106052,Remarks,narcotics
+701,106057,Remarks,narcotics
+702,106062,Remarks,narcotics
+703,106068,Remarks,narcotics
+704,106074,Remarks,narcotics
+705,106080,Remarks,narcotics
+706,106084,Remarks,narcotics
+707,106090,Remarks,narcotics
+708,106097,Remarks,narcotics
+709,106104,Remarks,narcotics
+710,106113,Remarks,narcotics
+711,106121,Remarks,narcotics
+712,106125,Remarks,narcotics
+713,106132,Remarks,narcotics
+714,106349,"{'Name', 'OrigName'}",tobacco
+715,106633,Remarks,drug
+716,107257,Remarks,alcohol
+717,108385,"{'Name', 'OrigName'}",tobacco
+718,108968,Remarks,alcohol
+719,108980,Remarks,alcohol
+720,108983,Remarks,alcohol
+721,109746,"{'Name', 'OrigName'}",tobacco
+722,110725,"{'Name', 'OrigName'}",drugs
+723,111048,"{'Name', 'OrigName'}",drugs
+724,111051,"{'Name', 'OrigName'}",drugs
+725,111581,"{'Name', 'OrigName'}",drugs
+726,112653,"{'Name', 'OrigName'}",tobacco
+727,114053,"{'Name', 'OrigName'}",tobacco
+728,114121,"{'Name', 'OrigName'}",drugs
+729,114510,"{'Name', 'OrigName'}",tobacco
+730,114625,"{'Name', 'OrigName'}",tobacco
+731,115103,"{'Name', 'OrigName'}",tobacco
+732,115607,"{'Name', 'OrigName'}",tobacco
+733,115630,"{'Name', 'OrigName'}",drugs
+734,115632,"{'Name', 'OrigName'}",drugs
+735,118531,"{'Name', 'OrigName'}",tobacco
+736,118599,"{'Name', 'OrigName'}",tobacco
+737,120067,"{'Name', 'OrigName'}",tobacco
+738,120940,"{'Name', 'OrigName'}",drug
+739,121687,"{'Name', 'OrigName'}",tobacco
+740,121866,"{'Name', 'OrigName'}",tobacco
+741,122638,"{'Name', 'OrigName'}",tobacco
+742,122895,"{'Name', 'OrigName'}",tobacco
+743,122973,"{'Name', 'OrigName'}",tobacco
+744,123492,"{'Name', 'OrigName'}",tobacco
+745,124182,"{'Name', 'OrigName'}",solvents
+746,124726,"{'Name', 'OrigName'}",tobacco
+747,125320,"{'Name', 'OrigName'}",tobacco
+748,126608,"{'Name', 'OrigName'}",drugs
+749,127503,"{'Name', 'OrigName'}",tobacco
+750,127796,"{'Name', 'OrigName'}",tobacco
+751,129108,"{'Name', 'OrigName', 'Organization'}",drugs
+752,129112,Organization,drugs
+753,129115,Organization,drugs
+754,129118,Organization,drugs
+755,129123,Organization,drugs
+756,129126,Organization,drugs
+757,129131,Organization,drugs
+758,129135,Organization,drugs
+759,129358,"{'Name', 'OrigName'}",drugs
+760,129361,"{'Name', 'OrigName'}",drugs
+761,130502,"{'Name', 'OrigName'}",drug
+762,130808,"{'Name', 'OrigName'}",tobacco
+763,131493,"{'Name', 'OrigName'}",tobacco
+764,132957,"{'Name', 'OrigName'}",tobacco
+765,133609,Remarks,alcohol
+766,135685,"{'Name', 'OrigName'}",tobacco
+767,135878,"{'Name', 'OrigName', 'Organization'}",drugs
+768,136112,"{'Name', 'OrigName', 'Organization'}",drugs
+769,137618,"{'Name', 'OrigName'}",tobacco
+770,140311,"{'Name', 'OrigName'}",drugs
+771,140863,"{'Name', 'OrigName'}",tobacco
+772,140868,"{'Name', 'OrigName'}",tobacco
+773,140971,Address,drug
+774,141423,"{'Name', 'OrigName'}",drugs
+775,141429,"{'Name', 'OrigName'}",drugs
+776,145517,"{'Name', 'OrigName'}",drugs
+777,145522,"{'Name', 'OrigName'}",drugs
+778,145688,Remarks,drugs
+779,145692,Remarks,drugs
+780,145696,Remarks,drugs
+781,147218,"{'Name', 'OrigName'}",drugs
+782,148927,"{'Name', 'OrigName'}",drugs
+783,149415,"{'Name', 'OrigName'}",tobacco
+784,150193,"{'Name', 'OrigName'}",drugs
+785,150198,"{'Name', 'OrigName'}",drugs
+786,150268,Remarks,drugs
+787,150274,Remarks,drugs
+788,150279,Remarks,drugs
+789,150504,"{'Name', 'OrigName'}",tobacco
+790,151189,"{'Name', 'OrigName'}",tobacco
+791,151807,"{'Name', 'OrigName'}",drugs
+792,151810,"{'Name', 'OrigName'}",drug
+793,152147,Organization,drugs
+794,152164,Organization,drugs
+795,152177,Organization,drugs
+796,152823,"{'Name', 'OrigName'}",drugs
+797,152829,"{'Name', 'OrigName'}",drugs
+798,153852,Organization,drugs
+799,154635,"{'Name', 'OrigName'}",tobacco
+800,154639,"{'Name', 'OrigName'}",tobacco
+801,154948,Organization,drugs
+802,154959,Organization,drugs
+803,155123,"{'Name', 'OrigName'}",tobacco
+804,155785,"{'Name', 'OrigName'}",tobacco
+805,156019,Address,drug
+806,156485,Remarks,"{'drug trafficking', 'drug'}"
+807,157305,"{'Name', 'OrigName'}",tobacco
+808,157640,"{'Name', 'OrigName'}",drugs
+809,157869,"{'Name', 'OrigName'}",tobacco
+810,158002,Remarks,drug
+811,161242,Organization,tobacco
+812,161748,"{'Name', 'OrigName'}",drugs
+813,164382,"{'Name', 'OrigName'}",tobacco
+814,164950,"{'Name', 'OrigName'}",drugs
+815,164955,"{'Name', 'OrigName'}",drugs
+816,165367,"{'Name', 'OrigName'}",drugs
+817,165376,"{'Name', 'OrigName'}",drugs
+818,165617,"{'Name', 'OrigName'}",tobacco
+819,165707,Remarks,"{'drug trafficking', 'drug'}"
+820,165717,"{'Name', 'OrigName'}",alcohol
+821,165862,"{'Name', 'OrigName'}",drugs
+822,165910,Organization,solvents
+823,166012,"{'Name', 'OrigName'}",drugs
+824,166054,"{'Name', 'OrigName'}",drugs
+825,166310,"{'Name', 'OrigName'}",drug
+826,166768,"{'Name', 'OrigName'}",drugs
+827,166779,"{'Name', 'OrigName'}",drugs
+828,167320,Remarks,drug
+829,167569,Organization,solvents
+830,169199,"{'Name', 'OrigName'}",tobacco
+831,169397,Address,drug
+832,170224,Organization,drugs
+833,170523,"{'Name', 'OrigName'}",drug
+834,170945,Organization,drugs
+835,171589,Organization,drugs
+836,172239,"{'Name', 'OrigName'}",drugs
+837,172245,"{'Name', 'OrigName'}",drugs
+838,172333,"{'Name', 'OrigName'}",tobacco
+839,172783,"{'Name', 'OrigName'}",drugs
+840,172789,"{'Name', 'OrigName'}",drugs
+841,172892,"{'Name', 'OrigName'}",tobacco
+842,173478,"{'Name', 'OrigName'}",tobacco
+843,173886,"{'Name', 'OrigName'}",tobacco
+844,177648,Remarks,"{'drug trafficking', 'drug'}"
+845,178096,"{'Name', 'OrigName'}",drugs
+846,178100,"{'Name', 'OrigName'}",drugs
+847,178108,"{'Name', 'OrigName'}",drugs
+848,178110,"{'Name', 'OrigName'}",drugs
+849,178358,"{'Name', 'OrigName'}",drugs
+850,181743,Organization,drug
+851,181748,Organization,drug
+852,182496,"{'Name', 'OrigName'}",tobacco
+853,183290,Organization,drugs
+854,183798,Organization,tobacco
+855,183809,Organization,tobacco
+856,184507,Organization,drugs
+857,185233,Organization,drugs
+858,186030,"{'Name', 'OrigName'}",tobacco
+859,186828,Remarks,drug
+860,187491,Organization,drugs
+861,187493,Organization,drugs
+862,187874,Organization,drugs
+863,187903,Organization,drugs
+864,188034,Organization,tobacco
+865,191027,Organization,tobacco
+866,191286,Remarks,drug
+867,193718,Organization,drugs
+868,194026,Organization,drugs
+869,194029,Organization,drugs
+870,194606,Organization,drugs
+871,194621,Remarks,"{'drug trafficking', 'drug'}"
+872,195268,"{'Name', 'OrigName'}",drugs
+873,195438,"{'Name', 'OrigName'}",drugs
+874,198034,Organization,drugs
+875,198664,Organization,tobacco
+876,199823,Organization,drugs
+877,199825,Organization,drugs
+878,202973,"{'Name', 'OrigName'}",drugs
+879,208746,Organization,drugs
+880,209289,Organization,tobacco
+881,210378,Organization,drugs
+882,210381,Organization,drugs
+883,214746,"{'Name', 'OrigName'}",drugs
+884,215250,"{'Name', 'OrigName'}",drug
+885,215254,"{'Name', 'OrigName'}",drug
+886,217274,"{'Name', 'OrigName'}",drugs
+887,217476,"{'Name', 'OrigName'}",drug
+888,217721,"{'Name', 'OrigName'}",drugs
+889,217826,"{'Name', 'OrigName'}",drugs
+890,218353,"{'Name', 'OrigName'}",drugs
+891,218754,Organization,tobacco
+892,218758,Organization,tobacco
+893,219219,Organization,drugs
+894,219224,Organization,drugs
+895,222102,"{'Name', 'OrigName'}",drug
+896,222470,Organization,drugs
+897,222472,Organization,drugs
+898,224160,Organization,drugs
+899,224624,Organization,drugs
+900,224626,Organization,drugs
+901,224725,Organization,tobacco
+902,225022,"{'Name', 'OrigName'}",drug
+903,225364,Organization,drugs
+904,225799,"{'Name', 'OrigName'}",drugs
+905,225801,"{'Name', 'OrigName'}",drugs
+906,225803,"{'Name', 'OrigName'}",drugs
+907,226123,Organization,drugs
+908,226126,Organization,drugs
+909,227280,Organization,tobacco
+910,229868,"{'Name', 'OrigName'}",drugs
+911,231086,"{'Name', 'OrigName'}",drugs
+912,231088,"{'Name', 'OrigName'}",drugs
+913,231783,"{'Name', 'OrigName'}",drugs
+914,231826,Organization,drugs
+915,232779,"{'Name', 'OrigName'}",tobacco
+916,232793,"{'Name', 'OrigName'}",tobacco
+917,233485,"{'Name', 'OrigName'}",tobacco
+918,233951,Organization,drugs
+919,233956,Organization,drugs
+920,234248,Organization,drugs
+921,234255,Organization,drugs
+922,234594,Organization,drugs
+923,234694,Organization,drugs
+924,234726,Organization,drugs
+925,234897,Organization,drug
+926,235197,Organization,drugs
+927,235203,Organization,drugs
+928,236058,"{'Name', 'OrigName'}",drugs
+929,236911,"{'Name', 'OrigName'}",drugs
+930,237034,Organization,tobacco
+931,237933,Organization,drug
+932,238698,"{'Name', 'OrigName'}",drugs
+933,238703,"{'Name', 'OrigName'}",drugs
+934,239059,Organization,drugs
+935,239063,Organization,drugs
+936,239372,"{'Name', 'OrigName'}",drugs
+937,239411,Organization,drugs
+938,239416,Organization,drugs
+939,240096,"{'Name', 'OrigName'}",drugs
+940,242743,Organization,drugs
+941,242747,Organization,drugs
+942,242758,Organization,drugs
+943,242760,Organization,drugs
+944,242766,Address,tobacco
+945,243084,Organization,drugs
+946,249029,"{'Name', 'OrigName'}",drugs
+947,249035,"{'Name', 'OrigName'}",drugs
+948,249870,"{'Name', 'OrigName'}",drug
+949,253702,Organization,tobacco
+950,254080,Remarks,tobacco
+951,257537,"{'Name', 'OrigName'}",drugs
+952,257975,"{'Name', 'OrigName'}",drugs
+953,261714,Aliases,pcp
+954,261755,"{'Name', 'OrigName'}",drugs
+955,262648,"{'Name', 'OrigName'}",drugs
+956,262650,"{'Name', 'OrigName'}",drugs
+957,263680,"{'Name', 'OrigName'}",drugs
+958,264791,"{'Name', 'OrigName'}",tobacco
+959,264800,"{'Name', 'OrigName'}",tobacco
+960,265851,Organization,drugs
+961,266060,Organization,drugs
+962,266347,"{'Name', 'OrigName'}",tobacco
+963,266983,"{'Name', 'OrigName'}",tobacco
+964,266997,"{'Name', 'OrigName'}",drugs
+965,268506,"{'Name', 'OrigName'}",tobacco
+966,271058,"{'Name', 'OrigName'}",drugs
+967,272216,"{'Name', 'OrigName'}",tobacco
+968,274103,Organization,drugs
+969,274518,"{'Name', 'OrigName'}",drugs
+970,282382,Organization,drugs
+971,282633,Organization,drug
+972,282635,Organization,drug
+973,283664,Organization,drugs
+974,285881,Organization,drug
+975,286482,Organization,drug
+976,286868,Organization,drugs
+977,286869,Organization,drugs
+978,286870,Organization,drugs
+979,289119,Organization,drugs
+980,289654,Organization,drugs
+981,289655,Organization,drugs
+982,290004,Organization,drugs
+983,290533,Organization,tobacco
+984,290541,Organization,tobacco
+985,290902,Organization,tobacco
+986,292243,Organization,drugs
+987,292675,Organization,drugs
+988,293587,Organization,drugs
+989,293590,Organization,drugs
+990,293930,Organization,drugs
+991,294303,Organization,drugs
+992,296554,Remarks,drugs
+993,296564,Remarks,drugs
+994,297122,Organization,drugs
+995,297123,Organization,drugs
+996,298574,Remarks,alcohol
+997,299849,Organization,drugs
+998,299991,Organization,drugs
+999,301264,Organization,drugs
+1000,301676,Organization,drugs
+1001,301677,Organization,drugs
+1002,301764,Organization,drugs
+1003,302298,Organization,tobacco
+1004,302302,Organization,tobacco
+1005,302641,Organization,tobacco
+1006,302788,Organization,tobacco
+1007,302791,Organization,drugs
+1008,303214,Organization,tobacco
+1009,304557,Organization,drugs
+1010,304989,Remarks,drugs
+1011,304993,Remarks,drugs
+1012,305233,Organization,tobacco
+1013,305577,"{'Name', 'OrigName'}",drugs
+1014,305579,Remarks,drugs
+1015,305581,Remarks,drugs
+1016,306428,Organization,drugs
+1017,308091,Remarks,drug
+1018,308096,Remarks,drug
+1019,308100,Remarks,"{'drug', 'drugs'}"
+1020,308102,Remarks,narcotics
+1021,308109,Remarks,drugs
+1022,308114,Remarks,drugs
+1023,308120,Remarks,drugs
+1024,308142,Remarks,drug
+1025,308150,Remarks,drugs
+1026,308155,Remarks,drug
+1027,308199,Remarks,drugs
+1028,308312,"{'Name', 'OrigName'}",drugs
+1029,308744,Remarks,drug
+1030,309143,Address,tobacco
+1031,309913,Remarks,narcotics
+1032,310893,Remarks,"{'narcotics', 'heroin'}"
+1033,310986,Remarks,"{'narcotics', 'drug', 'drug trafficking', 'poppy', 'opium', 'narco-traffickers'}"
+1034,311817,Remarks,drug
+1035,313313,Remarks,drug
+1036,313326,Remarks,"{'drug trafficking', 'drug'}"
+1037,313414,Remarks,"{'drug trafficking', 'drug'}"
+1038,313542,Remarks,cannabis
+1039,313969,Remarks,drugs
+1040,313970,Remarks,drugs
+1041,314134,Remarks,drug
+1042,317126,Remarks,"{'drug', 'drugs'}"
+1043,317138,Remarks,drugs
+1044,317139,Remarks,drugs
+1045,317140,Remarks,drug
+1046,317141,Remarks,drug
+1047,317142,Remarks,drugs
+1048,317146,Remarks,cocaine
+1049,317148,Remarks,heroin
+1050,317149,Remarks,heroin
+1051,317154,Remarks,drugs
+1052,317155,Remarks,drugs
+1053,317157,Remarks,drugs
+1054,317189,Remarks,"{'cocaine', 'drug'}"
+1055,317190,Remarks,cocaine

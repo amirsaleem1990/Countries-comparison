@@ -1,0 +1,20 @@
+mkdir one-script-data 
+cp $(find . -name "*.py") one-script-data
+cd one-script-data
+for i in $(ls *.py); 
+	do
+	s=${i:0:${#i}-3};
+	mkdir $s;
+	mv $i $s;
+	cd $s;
+	ipython *.py;
+	cd ../ ;
+	done
+cd ../
+echo "
+
+
+************************Job Done************************
+
+"
+

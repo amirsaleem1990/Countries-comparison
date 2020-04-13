@@ -1,0 +1,187 @@
+
+Skip to content
+Using lovefordata.com Mail with screen readers
+1 of 106
+Narco | Rule Engine R&D - Invitation to edit
+Inbox
+	x
+Hira Bashir (via Google Docs)
+	
+	Fri, Jul 5, 4:55 PM (3 days ago)
+hira.bashir@lovefordata.com has invited you to edit the following document:Narco | Rule Engine R&D Open in DocsGoogle Docs: Create and edit documents online. Go
+Amir saleem
+	
+	Attachments1:18 PM (4 hours ago)
+summary count, and matched records
+Hira Bashir
+	
+	1:20 PM (4 hours ago)
+Thank you, Amir. Will review and get back to you. Regards,H.
+Amir saleem
+	
+	Attachments1:40 PM (4 hours ago)
+On Mon, Jul 8, 2019 at 1:20 PM Hira Bashir <hira.bashir@lovefordata.com> wrote: Thank you, Amir. Will review and get back to you. Regards,H. On Mon, 8 Jul 2019,
+Hira Bashir
+	
+	3:40 PM (2 hours ago)
+Ok, so starting to look at these now. Give me a few minutes please :) Regards, H.
+Hira Bashir
+	
+4:23 PM (1 hour ago)
+	
+to me
+Ok, this looks good. Would need you to run a couple of more things:
+
+1. Basically, run through each row, and match it against all the following words, then if one or more of these words were found in the current row, dump that row in a sheet and dump the found words (comma seperated) in a new column added to the start of the table. The rest of the columns will remain the same as the mother table (only cleaner):
+
+    el sporífero
+
+    drogas
+
+    metanfetamina
+
+    narcóticos
+
+    narca
+
+    cocaína
+
+    el tráfico de drogas
+
+    traficar drogas
+
+    drug dealing
+
+    dealing drugs
+
+    morphine
+
+    Drug
+
+    Drugs
+
+    Drug dealing 
+
+    Narco
+
+    Narco Trafficking 
+
+    Drug trafficking 
+
+    Narcotics
+
+    narcotics traffickers
+
+    Narco-traffickers 
+
+    Opium
+
+    poppy
+
+    narco
+
+    PWID
+
+    opiate
+
+    alcohol	
+
+    ecstasy
+
+    MDMA
+
+    Mephedrone
+
+    meow meow
+
+    Bath Salts
+
+    Drone
+
+    M-CAT
+
+    White Magic
+
+    4-methyl methcathinone 
+
+    4-MMC
+
+    amphetamines
+
+    Methylamphetamine
+
+    crystal meth
+
+    GHB	
+
+    Nicotine
+
+    tobacco
+
+    anabolic steroids
+
+    heroin	
+
+    phencyclidine
+
+    PCP
+
+    benzodiazepines	
+
+    ketamine	
+
+    pregabalin
+
+    buprenorphine	
+
+    psilocybin
+
+    psilocyn
+
+    magic mushrooms
+
+    cannabis
+
+    LSD
+
+    solvents
+
+    Cocaine
+
+    Substance abuse
+
+    Oxycodone
+
+    intoxicated
+
+    Drug abuse
+
+2. Exact same thing as above but:
+
+    Without the added column that carries the name of the match
+    Distinct rows (delete all the duplicates)
+
+
+We're getting somewhere with it.
+
+Regards,
+H.
+Amir saleem
+	
+	Attachments4:37 PM (1 hour ago)
+On Mon, Jul 8, 2019 at 4:23 PM Hira Bashir <hira.bashir@lovefordata.com> wrote: Ok, this looks good. Would need you to run a couple of more things: 1. Basically
+Hira Bashir
+	
+5:12 PM (49 minutes ago)
+	
+to me
+Perfect. Thank you!
+
+Regards,
+H.
+	
+You're welcome!
+My pleasure.
+No problem!
+	
+	

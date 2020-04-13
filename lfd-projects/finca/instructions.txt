@@ -1,0 +1,11 @@
+The following link contains data for FINCA:
+https://drive.google.com/open?id=1NPh4sYOvt8u6WY9mBd5I6hkmTSCtQfXv
+
+Here are the tasks I want you to do:
+1) There is a column for data type which includes only two values i.e. new and old. Please check if there are any loans in new data which also exist in old data. The key for the data is application ID and loan ID i.e. application ID + loan ID is your primary key.
+2) For any repeated loans, please check if the data in other columns is also the same
+3) I want you to compare variable distributions in new vs old data and document any significant changes
+4) Do part 3 but with respect to DPD 30 variable i.e. the average loan amount in old data for DPD30 = 0 and 1 compared to that in new data
+5) Once done - I want you to make a model with DPD30 as target variable on the old data only. 
+
+Let me know in case of confusions.

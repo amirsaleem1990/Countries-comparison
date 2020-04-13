@@ -1,0 +1,1 @@
+["{model=SM-A720F, manufacturer=samsung, brand=samsung, deviceSoftware=8.0.0, networkOperator=41004, ram=3 GB}"]

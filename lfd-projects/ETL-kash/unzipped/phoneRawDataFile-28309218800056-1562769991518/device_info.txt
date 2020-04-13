@@ -1,0 +1,1 @@
+["{model=JKM-LX1, manufacturer=HUAWEI, brand=HUAWEI, deviceSoftware=8.1.0, networkOperator=60202, ram=4 GB}"]

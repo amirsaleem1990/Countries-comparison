@@ -1,0 +1,19 @@
+Country,Links,
+PK,https://www.bestmobile.pk/used-mobiles,ok
+PK,http://www.mobile-phone.pk/mobile_brands/,ok
+PK,http://www.shopbuzz.pk/usedproduct/index?category=mobile-phones\,ok
+PK,https://www.olx.com.pk/mobile-phones_c1453,regex or js
+PK,https://www.telemart.pk/mobile-and-tablets/mobile-phone.html,ok
+PK,https://www.whatmobile.com.pk/,ok
+PK,https://www.daraz.pk/smartphones/,regex or js 
+,,
+Egypt,https://www.jumia.com.eg/mobile-phones/,ok
+Egypt,https://2b.com.eg/en/mobile-and-tablet/mobiles.html,ok
+Egypt,https://egypt.souq.com/eg-en/used-mobiles/s/?section=2&page=1,only 2 mobiles !
+Egypt,https://egypt.souq.com/eg-en/new-mobiles/s/?as=1,only 68 mobiles !
+Egypt,https://yaoota.com/en-eg/category/mobiles-and-tablets/mobiles/,ok
+Egypt,https://eg.pricena.com/en/mobile-tablets/mobile-phones,ok
+Egypt,https://www.carrefouregypt.com/mafegy/en/smartphones-tablets/mobile-phones/c/NFEGY8010000,only 103 mobiles !
+Egypt,https://olx.com.eg/en/mobile-phones-accessories/mobile-phones/,ok
+Egypt,https://www.ennap.com/mobiles-tablets-mobile-phones-1,ok
+Egypt,https://egypt.souq.com/eg-en/mobile-phone/l/?section=2&page=1,ok

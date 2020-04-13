@@ -1,0 +1,1 @@
+["{Package=Skype}","{Package=Truecaller}","{Package=Kashat}","{Package=File Manager}","{Package=Vysor}","{Package=DU Recorder}","{Package=Mr Phone}","{Package=Tez}","{Package=Fake GPS}","{Package=My Application}","{Package=Jira}"]

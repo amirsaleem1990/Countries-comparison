@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>PivotTable.js</title>
+
+        <!-- external libs from cdnjs -->
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.11/c3.min.css">
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.11/c3.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+
+
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.19.0/pivot.min.css">
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.19.0/pivot.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.19.0/d3_renderers.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.19.0/c3_renderers.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.19.0/export_renderers.min.js"></script>
+
+        <style>
+            body {font-family: Verdana;}
+            .node {
+              border: solid 1px white;
+              font: 10px sans-serif;
+              line-height: 12px;
+              overflow: hidden;
+              position: absolute;
+              text-indent: 2px;
+            }
+            .c3-line, .c3-focused {stroke-width: 3px !important;}
+            .c3-bar {stroke: white !important; stroke-width: 1;}
+            .c3 text { font-size: 12px; color: grey;}
+            .tick line {stroke: white;}
+            .c3-axis path {stroke: grey;}
+            .c3-circle { opacity: 1 !important; }
+            .c3-xgrid-focus {visibility: hidden !important;}
+        </style>
+    </head>
+    <body>
+        <script type="text/javascript">
+            $(function(){
+                if(window.location != window.parent.location)
+                    $("<a>", {target:"_blank", href:""})
+                        .text("[pop out]").prependTo($("body"));
+
+                $("#output").pivotUI(
+                    $.csv.toArrays($("#output").text()),
+                    $.extend({
+                        renderers: $.extend(
+                            $.pivotUtilities.renderers,
+                            $.pivotUtilities.c3_renderers,
+                            $.pivotUtilities.d3_renderers,
+                            $.pivotUtilities.export_renderers
+                            ),
+                        hiddenAttributes: [""]
+                    }, {})
+                ).show();
+             });
+        </script>
+        <div id="output" style="display: none;">,2000-01,2001-02,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-11,2011-12,2012-13,2013-14,2014-15,2015-16,2016-17 (P),2017-18 (E),table
+Primary schools (000) total,147.7,149.1,150.8,155.0,157.2,157.5,158.4,157.4,156.7,157.5,155.5,154.7,159.7,157.9,165.9,164.6,169.6,173.7,"NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Primary schools (000) female,54.3,55.3,56.1,57.6,58.7,59.8,60.9,64.9,63.4,60.6,58.2,57.0,60.1,60.3,66.0,65.3,59.0,58.7,"NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Middle schools (000) total,25.5,26.8,28.0,28.7,30.4,39.4,40.1,40.8,40.9,41.3,41.6,41.9,42.2,42.9,44.8,45.7,49.0,51.4,"NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Middle schools (000) female,12.0,12.8,13.5,13.9,14.8,19.3,17.5,20.6,20.4,19.5,20.4,21.0,21.4,21.1,22.4,27.0,28.0,31.0,"NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+High schools (000) total,14.8,15.1,15.6,16.1,16.6,22.9,23.6,24.0,24.3,24.8,25.2,28.7,29.9,30.6,31.3,31.7,31.6,31.9,"NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+High schools (000) female,4.6,4.6,4.8,5.1,5.3,8.1,9.0,9.0,9.2,10.6,9.5,11.6,12.3,12.6,13.1,15.6,14.7,15.5,"NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Technical & voca- tional institutions total,630.0,607.0,585.0,624.0,747.0,3059.0,3090.0,3125.0,3159.0,3192.0,3224.0,3257.0,3290.0,3323.0,3579.0,3746.0,3798.0,3979.0,"NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Technical & voca- tional institutions female,236.0,239.0,230.0,228.0,328.0,1475.0,1491.0,1507.0,1523.0,2182.0,2206.0,2229.0,2253.0,2276.0,1819.0,1514.0,1536.0,1370.0,"NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Higher sec/ inter colleges total,1710.0,1784.0,1855.0,1989.0,1604.0,2996.0,3095.0,3213.0,3242.0,3329.0,3435.0,4515.0,5030.0,5179.0,5393.0,5470.0,5130.0,5114.0,"NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Higher sec/ inter colleges female,691.0,731.0,768.0,822.0,684.0,1484.0,1420.0,1642.0,1707.0,1763.0,1690.0,2184.0,2410.0,2462.0,2567.0,1437.0,2689.0,2772.0,"NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Degree colleges total,366.0,376.0,386.0,426.0,677.0,1135.0,1166.0,1202.0,1336.0,1439.0,1558.0,1384.0,1534.0,1086.0,1410.0,1418.0,1431.0,1583.0,"NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Degree colleges female,171.0,177.0,186.0,206.0,331.0,664.0,631.0,700.0,733.0,821.0,814.0,643.0,683.0,518.0,308.0,260.0,344.0,305.0,"NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Universities total,59.0,74.0,96.0,106.0,108.0,111.0,120.0,124.0,129.0,132.0,135.0,139.0,147.0,161.0,163.0,163.0,185.0,,"NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Primary stage i-v in 000 total,14105.0,14560.0,15094.0,16207.0,18190.0,17757.0,17993.0,18360.0,18468.0,18772.0,18063.0,18677.0,18790.0,19441.0,19847.0,21551.0,21686.0,22521.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Primary stage i-v in 000 female,5559.0,5871.0,6132.0,6606.0,7642.0,7710.0,7848.0,8032.0,8144.0,8320.0,7971.0,7905.0,8278.0,8567.0,8778.0,9534.0,9660.0,10070.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Middle stage vi-viii in 000 total,3759.0,3821.0,3918.0,4321.0,4612.0,5322.0,5431.0,5427.0,5414.0,5504.0,5644.0,6020.0,6188.0,6461.0,6582.0,6922.0,6996.0,7189.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Middle stage vi-viii in 000 female,1706.0,1506.0,1551.0,1737.0,1885.0,2191.0,2264.0,2279.0,2298.0,2337.0,2421.0,2573.0,2653.0,2798.0,2843.0,3026.0,3088.0,3194.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+High stage ix-x in 000 total,1565.0,1574.0,1589.0,1800.0,1936.0,2188.0,2373.0,2484.0,2556.0,2583.0,2630.0,2753.0,2898.0,3109.0,3501.0,3653.0,3583.0,3765.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+High stage ix-x in 000 female,675.0,644.0,658.0,709.0,780.0,905.0,974.0,1022.0,1071.0,1078.0,1103.0,1155.0,1215.0,1303.0,1493.0,1580.0,1541.0,1634.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Technical & vocational in 000 total,83.0,83.0,94.0,105.0,114.0,239.0,251.0,256.0,265.0,273.0,281.0,290.0,302.0,309.0,320.0,315.0,345.0,358.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Technical & vocational in 000 female,14.0,15.0,19.0,14.0,21.0,90.0,94.0,96.0,99.0,102.0,106.0,109.0,113.0,117.0,112.0,112.0,120.0,121.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Higher sec/ inter colleges in 000 total,582.0,582.0,625.0,691.0,307.0,891.0,942.0,960.0,1074.0,1166.0,1188.0,1294.0,1400.0,1234.0,1665.0,1698.0,1595.0,1751.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Higher sec/ inter colleges in 000 female,283.0,285.0,306.0,338.0,141.0,444.0,473.0,452.0,508.0,495.0,408.0,367.0,395.0,497.0,662.0,675.0,618.0,668.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Degree colleges numbers total,305200.0,300400.0,320800.0,329007.0,453275.0,355705.0,380012.0,383810.0,366518.0,383954.0,431180.0,497152.0,641539.0,674451.0,1144826.0,937132.0,956395.0,1089664.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Degree colleges numbers female,149600.0,148000.0,158400.0,163059.0,220118.0,209806.0,224263.0,226517.0,222850.0,217621.0,218374.0,222098.0,234006.0,326858.0,171324.0,86134.0,89512.0,67846.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Universities numbers total,124944.0,276274.0,331745.0,423236.0,471964.0,521473.0,605885.0,741092.0,803507.0,935599.0,1107682.0,1319799.0,1594648.0,1594648.0,1299160.0,1355649.0,1463279.0,1423097.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Universities numbers female,36699.0,101770.0,128066.0,178723.0,195555.0,212997.0,255695.0,342125.0,356233.0,426323.0,521284.0,642198.0,805062.0,805062.0,602550.0,602509.0,667912.0,629984.0,"ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX"
+Primary schools in 000 total,408.9,413.9,433.5,432.2,450.1,454.2,456.0,452.6,465.3,441.7,440.5,427.4,428.8,420.1,430.9,444.6,475.2,496.0,"NUMBER OF TEACHERS IN EDUCATIONAL INSTITUTIONS IN PAKISTAN, BY KIND, LEVEL & SEX"
+Primary schools in 000 female,183.6,183.5,191.7,195.3,206.5,210.6,212.6,216.0,216.2,208.9,210.1,198.6,209.1,209.5,218.9,226.3,258.9,279.3,"NUMBER OF TEACHERS IN EDUCATIONAL INSTITUTIONS IN PAKISTAN, BY KIND, LEVEL & SEX"
+Middle schools in 000 total,209.7,230.1,236.3,239.4,246.7,310.8,313.5,320.6,320.5,331.5,335.0,351.4,362.6,364.8,380.8,394.2,455.4,493.1,"NUMBER OF TEACHERS IN EDUCATIONAL INSTITUTIONS IN PAKISTAN, BY KIND, LEVEL & SEX"
+Middle schools in 000 female,127.8,139.3,145.8,146.6,151.5,201.6,203.3,208.2,209.0,216.6,220.3,233.9,241.5,243.6,256.1,270.3,325.7,362.3,"NUMBER OF TEACHERS IN EDUCATIONAL INSTITUTIONS IN PAKISTAN, BY KIND, LEVEL & SEX"
+High schools in 000 total,260.3,270.2,278.0,276.9,282.1,417.1,421.7,429.9,439.3,447.1,452.8,458.7,489.6,500.5,514.2,529.5,560.6,583.1,"NUMBER OF TEACHERS IN EDUCATIONAL INSTITUTIONS IN PAKISTAN, BY KIND, LEVEL & SEX"
+High schools in 000 female,125.3,126.1,131.9,134.2,138.6,209.9,213.0,219.7,225.5,230.4,235.3,271.3,287.2,296.3,306.2,318.0,342.6,360.4,"NUMBER OF TEACHERS IN EDUCATIONAL INSTITUTIONS IN PAKISTAN, BY KIND, LEVEL & SEX"
+Technical & voca- tional institutions numbers total,9441.0,7192.0,7273.0,7042.0,7356.0,14565.0,14622.0,14914.0,15264.0,15338.0,15591.0,15847.0,16109.0,16377.0,19393.0,18157.0,18207.0,18885.0,"NUMBER OF TEACHERS IN EDUCATIONAL INSTITUTIONS IN PAKISTAN, BY KIND, LEVEL & SEX"
+Technical & voca- tional institutions numbers female,1959.0,1863.0,1623.0,1325.0,1450.0,4658.0,4676.0,4770.0,5061.0,4905.0,4993.0,5079.0,5168.0,5259.0,5353.0,4384.0,4304.0,4043.0,"NUMBER OF TEACHERS IN EDUCATIONAL INSTITUTIONS IN PAKISTAN, BY KIND, LEVEL & SEX"
+Higher sec/ inter colleges numbers total,48054.0,55146.0,57681.0,57881.0,57661.0,69425.0,71246.0,74223.0,76184.0,77248.0,81183.0,97633.0,132011.0,124336.0,118079.0,123061.0,120336.0,119046.0,"NUMBER OF TEACHERS IN EDUCATIONAL INSTITUTIONS IN PAKISTAN, BY KIND, LEVEL & SEX"
+Higher sec/ inter colleges numbers female,21506.0,23016.0,24146.0,24190.0,24366.0,33959.0,34996.0,36162.0,37149.0,37595.0,39378.0,52746.0,71121.0,58867.0,63569.0,66528.0,63386.0,65008.0,"NUMBER OF TEACHERS IN EDUCATIONAL INSTITUTIONS IN PAKISTAN, BY KIND, LEVEL & SEX"
+Degree colleges numbers total,11019.0,10598.0,11164.0,11245.0,15653.0,20568.0,20768.0,20971.0,21176.0,30754.0,36349.0,40191.0,48809.0,25964.0,36587.0,37082.0,37857.0,43637.0,"NUMBER OF TEACHERS IN EDUCATIONAL INSTITUTIONS IN PAKISTAN, BY KIND, LEVEL & SEX"
+Degree colleges numbers female,4218.0,4164.0,4410.0,4505.0,6690.0,10485.0,10587.0,10690.0,10794.0,14313.0,16181.0,16815.0,19319.0,7599.0,7239.0,7379.0,7541.0,7522.0,"NUMBER OF TEACHERS IN EDUCATIONAL INSTITUTIONS IN PAKISTAN, BY KIND, LEVEL & SEX"
+Universities numbers total,5988.0,5160.0,6180.0,37428.0,37469.0,37509.0,44537.0,46893.0,52833.0,57780.0,63557.0,70053.0,77557.0,77557.0,88288.0,83375.0,58733.0,53981.0,"NUMBER OF TEACHERS IN EDUCATIONAL INSTITUTIONS IN PAKISTAN, BY KIND, LEVEL & SEX"
+</div>
+    </body>
+</html>
