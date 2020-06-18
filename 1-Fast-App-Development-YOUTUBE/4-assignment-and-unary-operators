@@ -1,0 +1,27 @@
+public class Test{
+	public static void main(String[] args) {
+		int x = 4;
+		System.out.println("initize x: " + x);
+		
+		x += 1;
+		System.out.println("after <x += 1> x: " + x);
+		
+		x -= 1;
+		System.out.println("after <x -= 1> x: " + x);
+		
+		x *= 3;
+		System.out.println("after <x *= 3> x: " + x);
+		
+		x /= 2;
+		System.out.println("after <x /= 2> x: " + x);
+		
+		x /= 2;
+		System.out.println("after <x /= 2> x: " + x);
+		
+		x++;
+		System.out.println("after <x++> x: " + x);
+		
+		x--;
+		System.out.println("after <x--> x: " + x);
+	}
+}

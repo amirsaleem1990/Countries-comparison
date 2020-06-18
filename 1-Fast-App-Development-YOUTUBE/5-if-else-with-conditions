@@ -1,0 +1,29 @@
+public class Test{
+	public static void main(String[] args) {
+		int x = 20;
+		System.out.println("X: " + x + "\n");
+
+//		Testing single condition
+		System.out.println("---Tesing Single condition---");
+		if (x < 20) {
+			System.out.println("x is < 20");
+		}else {
+			System.out.println("x is not < 20");
+		}
+		
+//		Testing Two conditions 
+		System.out.println("\n\n---Tesing Two condition---\nConditions: x < 30 and x > 25\n&&");
+		if (x < 30 && x > 25) {
+			System.out.println("both conditions are true");
+		}else {
+			System.out.println("at least one condition is False");
+		}
+		
+		System.out.println("\n||");
+		if (x < 30 || x > 25) {
+			System.out.println("at least one condition is True");
+		}else {
+			System.out.println("both conditions are  False");
+		}
+	}
+}

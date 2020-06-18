@@ -1,0 +1,31 @@
+//https://youtu.be/M55KPcYQCVA?list=PL0ZWCvQG2rJUSTimQ5ZPTG1l8jVrbsXvh
+//Arrays
+//all Elements of an Array have same datatype
+//Array indexing starts with 0
+import java.util.Scanner;
+public class Test{
+	public static void main(String[] args) {
+//		assing values to myArray at initilization time
+		int[] myArray= {10,12,14,16};
+		
+//		inititiazia empty myArray2, and then we add elements to it
+		Scanner object = new Scanner(System.in);
+		
+		String[] myArray2 = new String[4];
+		for (int i = 0; i<=3; i++) {
+			System.out.println("Enter String Elemnt: ");
+			myArray2[i] = object.nextLine();
+		}
+		
+		
+		for (int i=0; i<=3; i++) {
+			System.out.println("myArray , index " + i + ": " + myArray[i]);
+		}
+		
+		for (int i=0; i<=3; i++) {
+			System.out.println("myArray2, index " + i + ": " + myArray2[i]);
+		}
+
+
+	}
+}

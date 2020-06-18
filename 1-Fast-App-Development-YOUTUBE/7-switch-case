@@ -1,0 +1,29 @@
+//Lesson 07 - Switch Case | Java Tutorials for Beginners (Urdu/Hindi)
+//https://youtu.be/_c_kFm9xUyc?list=PL0ZWCvQG2rJUSTimQ5ZPTG1l8jVrbsXvh
+
+// switch case me condition check hoti h, or phir true condition ka block execute hota h like if else
+//limitations: case k aagy value hi deni hoti h, condition check nahi kar sakty, eg: <case x < 5> is wrong
+import java.util.Scanner;
+public class Test{
+	public static void main(String[] args) {
+		System.out.println("Enter your name: ");
+		Scanner user_input = new Scanner(System.in);
+		String name_ = user_input.nextLine();
+		
+		switch(name_) {
+		case "Amir":
+			System.out.println("You are the Father");
+			break;
+		case "Hamza":
+			System.out.println("You are the elder Son");
+			break;
+		case "Orwah":
+			System.out.println("Your are infant!! (how could you use a Laptop :p )");
+			break;
+//		jab koi bhi case run nahi hota to default execute hota h, magar default ko define karna zaroori nahi h
+		default:
+			System.out.println("You are not from our family");
+			break;
+		}
+	}
+}

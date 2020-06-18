@@ -1,0 +1,12 @@
+public class Test{
+	public static void main(String[] args){
+		try{
+			int a = 10/0;
+			System.out.println("Try Block Executed Successfully");
+		}catch(Exception e){
+			System.out.println("Error: " + e);
+		}finally{  // final Block har soorat me chalta h
+			System.out.println("Final Block");
+		}
+	}
+}
