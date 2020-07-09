@@ -1,0 +1,10 @@
+count=0
+while :; do 
+`#	if [[ `ps -aux | grep amir | grep server | grep process | wc -l` = 0 ]] ; then
+#		count=`echo $(( $count + 1 ))`
+		if [[ $count = 3 ]] ; then
+			./email "Process completed Successfully"
+		fi
+	fi
+	sleep 3
+done

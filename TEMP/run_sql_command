@@ -1,0 +1,6 @@
+#!/bin/bash
+command=$1
+if [[ $command = "" ]]; then
+	read -p "Enter you command: " command
+fi
+mysql -u db_user -p'passw0rd'  -D kashat -e "$command"

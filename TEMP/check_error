@@ -1,0 +1,20 @@
+#!/bin/bash
+while :; do
+	echo -e "`date +%T`\n"
+	echo -e "Successfully completed: `grep phoneR am | wc -l`\n"
+	echo -e "RAM Free: `free -h | tail -n+2 | head -1 | cut -c 40- | cut -d ' ' -f1,2`\n"
+	echo -en "RAM used: "
+	used_ram_in_mb=`free -m | tail -n+2 | head -1 | sed 's/\ /,/g' | sed 's/,\{2,\}/ /g'  | cut -d " " -f3`
+	used_ram_in_gb=`echo "scale=2; $used_ram_in_mb/1024" | bc` 
+	echo -e "$used_ram_in_gb GB\n\n"
+	echo -e "file in temporary #: `ls temporary/  | wc -l`\n"
+	echo -e "temporary size: `du -sh temporary/  | sed 's/temporary\///g'`\n\n"
+	echo -e "process: \n`ps -aux  | grep amir | grep python3`"
+	
+	echo -e "\n\n\n------------------------------------------------------------"
+	for i in {1..60}; do
+		echo -n "!"
+		sleep 1
+	done
+	clear
+done

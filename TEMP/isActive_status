@@ -1,0 +1,26 @@
+#!/bin/bash
+
+del -rf .AB
+
+echo -e "\033[0;31m\nisActive count in each table in existing DB\033[0m\n" > .AB
+
+function get_is_active_count(){
+	a=`mysql -u db_user -p'passw0rd'  -D kashat -e "select count(*) from $1 where isActive = '0';" 2>/dev/null | tail -1`
+	echo -n "$a: "  >> .AB
+	echo $1 >> .AB
+}
+
+get_is_active_count accounts_list
+get_is_active_count app_install_log
+get_is_active_count calendar_events
+get_is_active_count call_log
+get_is_active_count contacts_list
+get_is_active_count ext_storage_files
+get_is_active_count filter_app_log
+get_is_active_count gallery_data
+get_is_active_count location
+get_is_active_count master
+get_is_active_count sms_log
+
+cat .AB
+
