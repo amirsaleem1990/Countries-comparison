@@ -1,1 +1,0 @@
-["{Package=Skype, Category=-1}","{Package=Truecaller, Category=4}","{Package=Kashat, Category=-1}","{Package=File Manager, Category=-1}","{Package=Vysor, Category=-1}","{Package=DU Recorder, Category=2}","{Package=Tez, Category=7}","{Package=Fake GPS, Category=-1}","{Package=My Application, Category=-1}","{Package=Jira, Category=7}"]

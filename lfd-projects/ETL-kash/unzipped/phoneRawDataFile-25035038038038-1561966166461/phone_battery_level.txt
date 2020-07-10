@@ -1,1 +1,0 @@
-["{battery_level=43.0}"]

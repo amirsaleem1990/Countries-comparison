@@ -1,1 +1,0 @@
-wikipedia ka kaam pehly github/amirsaleem1990/working/wikipedia_scrapin_v2 me kya tha, us me kukch masly aay thy to is folder me from bigining scraping startk ki or errors wagera dekhy, is ki script bhi updated h.

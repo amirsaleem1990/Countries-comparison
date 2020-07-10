@@ -1,3 +1,0 @@
-
-["{1562769833479=LatLng(latitude=30.0650659, longitude=31.2159194)}"]
-["{1562769914682=LatLng(latitude=30.0650813, longitude=31.2161774)}"]

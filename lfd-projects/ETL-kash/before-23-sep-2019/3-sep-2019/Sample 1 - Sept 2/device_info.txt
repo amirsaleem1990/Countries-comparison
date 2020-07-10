@@ -1,1 +1,0 @@
-["{model=SM-A600FN, manufacturer=samsung, brand=samsung, deviceSoftware=9, networkOperator=41006, ram=3 GB}"]

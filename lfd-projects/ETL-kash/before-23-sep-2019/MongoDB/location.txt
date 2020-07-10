@@ -1,6 +1,0 @@
-
-["{1567087365174=LatLng(latitude=30.0643489, longitude=31.2154621)}"]
-["{1567087425309=LatLng(latitude=30.0647767, longitude=31.2158521)}"]
-["{1567087482012=LatLng(latitude=30.0649577, longitude=31.215706)}"]
-["{1567087482089=LatLng(latitude=30.0649577, longitude=31.215706)}"]
-["{1567087603625=LatLng(latitude=30.0649625, longitude=31.2157712)}"]

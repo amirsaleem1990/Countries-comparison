@@ -1,1 +1,0 @@
-["{name=WhatsApp, type=com.whatsapp}","{name=SIM1, type=com.android.sim}","{name=hamzasajjaditya@gmail.com, type=com.google}","{name=hamza.sajjad@venturedive.com, type=com.google}","{name=Duo, type=com.google.android.apps.tachyon}","{name=Skype, type=com.skype.raider}","{name=LinkedIn, type=com.linkedin.android}"]

@@ -1,8 +1,0 @@
-only 315 articles (among 1084) contain one or more entity
-315 / 1084 = 29 %
-
-entities (with replace):
-468
-
-unique Entities Qty in our corpus:
-262

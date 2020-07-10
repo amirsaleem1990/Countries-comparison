@@ -1,7 +1,0 @@
-import pandas as pd 
-from sqlalchemy import create_engine 
-engine = create_engine('sqlite:///pak-and-egypt-used-and-new.db', echo=True) 
-df = pd.read_csv("all_csvs-with-date.csv")
-df.columns = ['mobiles','prices','currency','new_used','web','Date']
-df2 = df[df[df.columns[0]] != "mobiles"]
-df2.to_sql('users', con=engine, index=False)

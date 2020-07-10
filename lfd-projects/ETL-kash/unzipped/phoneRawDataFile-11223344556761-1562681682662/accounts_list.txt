@@ -1,1 +1,0 @@
-["{name=mmdsr42@gmail.com, type=com.google}","{name=Skype, type=com.skype.raider}","{name=muhammad.mudassar@venturedive.com, type=com.microsoft.android.enterprise15}","{name=mmdsr42@gmail.com, type=com.osp.app.signin}"]

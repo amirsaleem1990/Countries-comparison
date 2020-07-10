@@ -1,9 +1,0 @@
-public class Test{
-	public static void main(String[] args) {
-		String my_name="Amir saleem";
-		int my_age = 30;
-		char c='A';
-		boolean married_or_not=true;
-		System.out.println("my name is " + my_name + "\nI am " + my_age + " years old\nMy name starts with character <" + c + ">\nQ: Is married[in true or false]?  Ans:" + married_or_not);
-	}
-}

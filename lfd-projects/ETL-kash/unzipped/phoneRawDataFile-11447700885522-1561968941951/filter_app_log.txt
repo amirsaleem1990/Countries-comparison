@@ -1,1 +1,0 @@
-["{social=[\"Skype\",\"Zoom\",\"TikTok\",\"Snapchat\"], dangerous=[], darkweb=[], wallet=[], banking=[], lending=[], rosca=[]}"]
