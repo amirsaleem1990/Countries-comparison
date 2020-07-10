@@ -1,0 +1,4 @@
+countries.json : https://data.world/samayo/country-names
+IDSData.csv : http://databank.worldbank.org/data/download/IDS_CSV.zip
+Population.csv : http://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv
+GDP.csv : http://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv
