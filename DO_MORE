@@ -1,2 +1,4 @@
 add:
 	country area
+	currency value
+	median income
