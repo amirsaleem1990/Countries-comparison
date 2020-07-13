@@ -2,3 +2,7 @@ countries.json : https://data.world/samayo/country-names
 IDSData.csv : http://databank.worldbank.org/data/download/IDS_CSV.zip
 Population.csv : http://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv
 GDP.csv : http://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv
+Area.csv : http://api.worldbank.org/v2/en/indicator/AG.LND.TOTL.K2?downloadformat=csv
+Exchange_rate.csv : http://api.worldbank.org/v2/en/indicator/PA.NUS.FCRF?downloadformat=csv
+Median_household_income.csv : blob:https://worldpopulationreview.com/9b022cf5-f224-4596-9309-c98e76f8ec60
+Net-national-income-per-capita.csv : http://api.worldbank.org/v2/en/indicator/NY.ADJ.NNTY.PC.CD?downloadformat=csv
