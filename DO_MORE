@@ -1,8 +1,4 @@
 add:
-	country area
-	currency value
-	median income
-	literacy rate
 	under 35 years population
 	import
 	export
